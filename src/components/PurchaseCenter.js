@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function PurchaseCenter() {
+    
     return (
         <div id="purchaseContainer" className="PurchaseCenter container">
             <form>

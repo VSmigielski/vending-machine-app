@@ -43,3 +43,8 @@ h2 {
 #purchaseButton, #returnChangeButton {
     margin: 0 auto;
 }
+
+
+#item-cards {
+    margin: 5px;
+}
